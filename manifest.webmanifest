@@ -1,0 +1,14 @@
+{
+  "name": "St. Xavier's Teachers Financial Module",
+  "short_name": "St Xavier's FM",
+  "description": "Teachers' motivation, SACCO savings and credit, welfare and Saturday program.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f6",
+  "theme_color": "#1d4e5f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
